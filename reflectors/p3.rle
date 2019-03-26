@@ -1,8 +1,8 @@
 x = 103, y = 27, rule = B3/S23
-obobo2bobobo11b3o29bo12b3o29bo$23bo31bobo10bo31bobo$o6bo16bo30b2o12bo
-30b2o2$o6bo2$o6bo2$obobo2bobobo$32b3o11bo30b3o11bo$32bo13bobo28bo13bob
-o$33bo12b2o30bo12b2o2$25bo44bo$25b3o42b3o20bo$28bo44bo18bobo3bo$27b2o
-43b2o18bobo2bobo$93bo3bobo$29b2obo6b2o33b2obo6b2o12bo$29bo4bo3bo2bo32b
-o4bo3bo2bo7b4o$30b2o2bo4bobo33b2o2bo4bobo$30bo3bo5bo34bo3bo5bo7b3o$31b
-o44bo19bo$31bob2obo7b2o30bob2obo7b2o3bobo$35bo8bo35bo8bo2bobobobo$35bo
-9b3o32bo9b2o5b2o$47bo!
+obobo2bobobo11b3o29bo12b3o29bo$23bo31bobo10bo31bobo$o6bo3bo12bo30b2o
+12bo30b2o2$o6bobobo2$o6bo2$obobo2bo$32b3o11bo30b3o11bo$32bo13bobo28bo
+13bobo$33bo12b2o30bo12b2o2$25bo44bo$25b3o42b3o20bo$28bo44bo18bobo3bo$
+27b2o43b2o18bobo2bobo$93bo3bobo$29b2obo6b2o33b2obo6b2o12bo$29bo4bo3bo
+2bo32bo4bo3bo2bo7b4o$30b2o2bo4bobo33b2o2bo4bobo$30bo3bo5bo34bo3bo5bo7b
+3o$31bo44bo19bo$31bob2obo7b2o30bob2obo7b2o3bobo$35bo8bo35bo8bo2bobobob
+o$35bo9b3o32bo9b2o5b2o$47bo!
